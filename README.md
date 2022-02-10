@@ -1,4 +1,4 @@
-# QAC [book-chapter-supplementary-materials]
+# QAC [book chapter supplementary materials]
 [![DOI](https://zenodo.org/badge/456298283.svg)](https://zenodo.org/badge/latestdoi/456298283) [![arXiv](https://img.shields.io/badge/arXiv-2202.04215-b31b1b.svg)](https://arxiv.org/abs/2202.04215)
 
 Supplementary materials for the book chapter _QAC: Quantum-computing Aided Composition_ to appear in the book 'Quantum Computer Music', E. R. Miranda (Ed.) 2022
