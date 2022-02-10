@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hamido"
+  given-names: "Omar Costa"
+  orcid: "https://orcid.org/0000-0001-5077-853X"
+title: "QAC [book chapter supplementary materials]"
+version: 1.0.0
+doi: 10.5281/zenodo.5988942
+date-released: 2022-02-09
+url: "https://github.com/Quantumland-art/QAC-book-chapter-supplementary-materials"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Hamido"
+    given-names: "Omar Costa"
+    orcid: "https://orcid.org/0000-0001-5077-853X"
+  doi: "10.0000/00000"
+#   journal: "Journal Title"
+  month: 2
+#   start: 1 # First page number
+#   end: 10 # Last page number
+  title: "QAC: Quantum-computing Aided Composition"
+#   issue: 1
+#   volume: 1
+  year: 2022
+  url: "https://arxiv.org/abs/2202.04215v1"
